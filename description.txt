@@ -1,0 +1,1 @@
+create a class snake game. the prey should look like a brown mouse and the snake should have a snake head and a tapered tail.
